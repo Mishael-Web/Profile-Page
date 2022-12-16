@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    padding-left: 125px;
+}
+
+.navbar-nav .rounded-circle{
+    margin-left: 125px;
+}
